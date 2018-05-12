@@ -1,0 +1,27 @@
+_repo: Sandman-Time_33691
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33691-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gaylord, Ilsien Nathalie
+    gutenberg_agent_id: '36541'
+    url: http://www.gutenberg.org/2009/agents/36541
+description: ''
+gutenberg_issued: '2010-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33691'
+  lccn: '15014522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry, American'
+tableOfContents: Flower babies -- The little sand-men -- Star babies -- The fairies'
+  ball -- The little sleepy song -- Little sunset ship of dreams.
+title: Sandman Time
+url: http://www.gutenberg.org/ebooks/33691
